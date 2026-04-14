@@ -1,0 +1,17 @@
+body{
+    background-color:blue ;
+}
+
+
+      body  button:hover {
+            background-color: brown;
+            color: white
+            
+        }  
+
+    
+      body  p  {
+            font-weight: bold;
+            color: yellow
+        }
+    
